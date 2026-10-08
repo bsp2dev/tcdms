@@ -1,0 +1,15 @@
+/*html {
+  --aura-accent-color-light: #009966;
+  --aura-background-color-light: #f3f1f1;
+  --aura-base-font-size: 15;
+  --aura-base-radius: 0;
+  --aura-base-size: 20;
+  --aura-contrast-level: 2;
+  --aura-font-family: var(--aura-font-family-system);
+}*/
+
+/* Change AppLayout Drawer width */
+vaadin-app-layout {
+	--vaadin-app-layout-drawer-width: 300px;
+}
+
